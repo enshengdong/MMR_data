@@ -10,8 +10,8 @@ This repository contains county-level measles-mumps-rubella (MMR) vaccination ra
 
 | File / Folder | Description |
 |---|---|
-| `mmr_data_sources_v2.csv` | Primary dataset containing county-level MMR vaccination rates across all covered school years. |
-| `mmr_data_us_counties_v2.csv` | Data dictionary describing all fields in `mmr_data_sources_v2.csv`. Also documents changes and improvements relative to the archived version. |
+| `mmr_data_sources_v2.csv` | Primary dataset containing county-level 2-dose MMR vaccination rates across all available states and school years. |
+| `mmr_data_us_counties_v2.csv` | Data dictionary describing all fields in `mmr_data_sources_v2.csv`, state-specific data sources and relevant notes. |
 | `mmr_data_archived/` | Original dataset used to support the JAMA article, preserved for reproducibility. |
 
 ---
