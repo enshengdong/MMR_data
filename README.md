@@ -1,8 +1,8 @@
-# County-Level MMR Vaccination Rate Dataset
+# County-Level MMR School Coverage Dataset
 
 ## Dataset Overview
 
-This repository contains county-level measles-mumps-rubella (MMR) vaccination rate data for the United States, spanning school years **2017–2018 through 2024–2025**. The dataset underlies and extends the analysis published in our [JAMA article](https://jamanetwork.com/journals/jama/fullarticle/2834892).
+This repository contains county-level measles-mumps-rubella (MMR) **school coverage data** for the United States, spanning school years 2017–2018 through 2024–2025. The dataset underlies and extends the analysis published in our [JAMA article](https://jamanetwork.com/journals/jama/fullarticle/2834892).
 
 ---
 
